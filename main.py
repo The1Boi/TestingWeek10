@@ -8,7 +8,7 @@ stonks_book = {
   "HBAN": "20.05",
   "KMDA": "64.30",
   "MOXC": "15.90",
-  "MLSS": "8.34",
+  "MLSS": "8.34.00",
   "REGN": "20.20"
 }
 x = input('Enter Ticker Symbol Here: ')
